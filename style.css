@@ -1,0 +1,17 @@
+/* Exemplo de customização */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-family: 'Courier New', monospace;
+}
+
+.card-title {
+    font-family: 'Georgia', serif;
+}
